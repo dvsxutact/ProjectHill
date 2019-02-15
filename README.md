@@ -1,4 +1,4 @@
-# ProjectHill
+# Project Hill
 Project Hill is a code name.
 
 Project Hill will be eventually become a Control panel for cloud enviroments it will be initially support OpenStack deployments. eventually support will be added for other hypervisors and stack configurations.
